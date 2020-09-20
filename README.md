@@ -1,0 +1,2 @@
+# ffoodapi
+.net core
